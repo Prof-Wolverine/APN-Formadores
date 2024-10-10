@@ -17,25 +17,25 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'Idiomas',
     '',
-    'WIZARD Idiomas / KNN Idiomas: ambos 4 anos'
+    'WIZARD Idiomas / KNN Idiomas: total 4 anos'
 )
 
 criaCartao(
-    'Onde Trabalhei?',
+    'Inf. Profisional',
     '',
     'Como estagiário Proc Dados: Instituto de Adm Pública / Eletrônica Akilenon: Técnico Eletrônica / Programação Base de dados DETRAN-PR / Fiscalização e Auditoria: Detran-PR / Examinador Prático Detran-PR'
 )
 
 criaCartao(
-    'Morei onde?',
+    'Inf. Residencial',
     '',
-    'Curitiba por aprox. 35 anos, Morei no Litoral do Paraná por 8 anos, E agora estamos em Cidade de Pinhão.'
+    'Curitiba por aprox. 35 anos, Morei no Litoral do Paraná por 8 anos, E agora estamos na Cidade de Pinhão.'
 )
 
 criaCartao(
     'Trajetória!',
     '',
-    'Quando adolescente vendedor: vassouras e milho pipoca, Mais tarde no E.M. fui trabalhar no IMAP (Inst. Munic. Adm Pública) em Curitiba, Após, fui para o DETRAN também em Curitiba (RH, COET, COOHA), Ainda no Detran me formei em Lic Matemática PUC/PR, ja na sequencia passei no Concurso e assumi como professor, Pedindo exoneração no Detran/PR, Cá estamos há 20 anos como professor: passando pelos CEEBJA Paulo Freire em Curitba (Rebouças),'
+    'Quando adolescente vendedor: vassouras e milho pipoca, Mais tarde no E.M. fui trabalhar no IMAP (Inst. Munic. Adm Pública) em Curitiba, Após, fui para o DETRAN também em Curitiba (RH, COET, COOHA), Ainda no Detran me formei em Lic Matemática PUC/PR, ja na sequencia passei no Concurso e assumi como professor, Pedindo exoneração no Detran/PR, Cá estamos há 20 anos como professor: passando pelos CEEBJA Paulo Freire em Curitba (Rebouças), Colégio Santa Rosa Centenário (saída praias), Colério Est Paulo Freire / Colégio Maria Helena (Litoral) , Colégio Estaudal Mário Evaldo Morski / Ceebja Pinhão (Pinhão)'
 )
